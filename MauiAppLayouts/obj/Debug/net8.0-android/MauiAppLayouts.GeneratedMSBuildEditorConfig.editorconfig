@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiAppLayouts
+build_property.ProjectDir = /Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/AbsoluteLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/GridLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = GridLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = GridLayoutDemo.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/gobelmo/code/DX212/MauiAppLayouts/MauiAppLayouts/StackLayoutDemo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiAppLayouts.StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.TargetPath = StackLayoutDemo.xaml
+build_metadata.AdditionalFiles.RelativePath = StackLayoutDemo.xaml
